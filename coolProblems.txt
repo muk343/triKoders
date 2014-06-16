@@ -1,0 +1,14 @@
+List of cool problems:
+1. max subarray sum 
+2. Subset sum problem - To find whether a subset of an array sums up to a particular value
+3. range min/max query (max element in k continous locations)
+4. DP questions with coins/rings (game of nin???) and varients 
+5. Finding the next bigger number from given number (using the same digits)
+
+
+List of important data sructures:
+1. Segment Trees
+2. Doubly linked Queues
+3. Balanced trees
+4. Heaps
+(Any more?)
