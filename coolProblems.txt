@@ -12,3 +12,9 @@ List of important data sructures:
 3. Balanced trees
 4. Heaps
 (Any more?)
+
+http://www.codeforces.com/problemset/problem/25/D
+
+http://codeforces.com/problemset/problem/120/F
+
+http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3390
