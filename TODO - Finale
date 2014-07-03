@@ -1,0 +1,51 @@
+Arrays:
+	Searching:
+		Linear
+		Binary
+		Ternary
+		Quick Select
+	
+	Sorting:
+		Insertion
+		Selection
+		Bubble
+		Merge
+		Quick
+		Bucket
+		
+Linked List:
+	Cycles - Detection & Find start
+	Reversing
+
+Stacks and Queues:
+	Tower of Hanoi
+	
+Trees:
+	Traversals
+		Inorder
+		Preorder
+		Postorder
+		Level-order
+		
+	Height
+	Width
+	
+	BST
+		Insert
+		Delete
+		Find
+		
+Graphs
+	Traversals
+		BFS
+		DFS
+	Cycle Detection
+	
+	Dijkstra
+	Minimum Spanning Tree
+	Bellman Ford
+	Floyd Warshall
+	
+	Topological Sort
+	
+	A* search
